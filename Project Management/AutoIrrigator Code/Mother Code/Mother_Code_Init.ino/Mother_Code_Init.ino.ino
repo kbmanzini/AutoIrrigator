@@ -3,7 +3,7 @@
 #define BLYNK_AUTH_TOKEN "n4ah771AAc91Iiswb1PT1zLeZPYghnbL"
 
 #include <WiFiS3.h>
-#include <BlynkSimpleWiFiS3.h>
+#include <BlynkSimpleWiFi.h>
 
 // -------------------------
 // WiFi Credentials
